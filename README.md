@@ -5,13 +5,13 @@ This repository is in progress and consists of a Jupyter notebook script to extr
  ---
  ---
  
- optional Appeal filter
+  - optional Appeal filter
  
- removal of unnecesary column if exist
+  - removal of unnecessary column if exist
  
- sets Fiscal year to July-June
+  - sets Fiscal year to July-June
  
- calculates: 
+ **calculates:** 
  Number of Donations
  Number of Donors
  Total amount donated per Fiscal year
