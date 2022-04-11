@@ -7,7 +7,7 @@ This repository is in progress and consists of a Jupyter notebook script to extr
  
   - optional Appeal filter
  
-  - removal of unnecessary column if exist
+  - removal of unnecessary columns 
  
   - sets Fiscal year to July-June
 
